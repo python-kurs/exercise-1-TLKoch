@@ -21,10 +21,9 @@ v_2 = 100%17
 c = 300000
 f = 5.0E+14
 v_3 = c/f
-# The wavelength of this light wave is 0.00027239957 km or 0.27239957857 m
-# We can see light nearly until 0.00638317375 m
-# So if I am right with the decimal powers, we are not able to see this light.
-
+# The wavelength of this light wave is 6e-10 km or converted 6e-7 m
+# We can see light from 400 nm to 750 nm
+# This light has a wavelength of 600 nm and therefore is in the visible spectrum
 
 
 # 5) Print the following string to the console using the format-function and the variables 'n' and 'pi': "Pi rounded to the first 10 decimals is: 3.1415926536" [2P]
