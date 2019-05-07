@@ -10,7 +10,7 @@ b = 345
 
 v_1 = a-b
 
-#a's datatype is integer and b's float
+# a's datatype is integer and b's float
 # v_1's datatype is float
 
 # 3) Calculate the remainder of the division 100/17 by only using one operator and save the result in v_2 (look into the Python docs for help) [1P]
